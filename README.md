@@ -13,9 +13,9 @@ Comecei a estudar programação por ter a oportunidade de fazer um técnico inte
 
 
 <div align="center">
- <img widht="40%" height="180em" src="https://github-readme-stats.vercel.app/api?username=DiogenesHSCosta&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&title_color=DA69AC&text_bold=true&border_radius=5"/>
+ <img widht="40%" height="150em" src="https://github-readme-stats.vercel.app/api?username=DiogenesHSCosta&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&title_color=DA69AC&text_bold=true&border_radius=5"/>
   
-  <img widht="40%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogeneshscosta&layout=compact&&theme=highcontrast&title_color=DA69AC&text_bold=true&border_radius=5&card_width=40%" />
+  <img widht="40%" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogeneshscosta&layout=compact&&theme=highcontrast&title_color=DA69AC&text_bold=true&border_radius=5&card_width=40%" />
   
 </div>
 
