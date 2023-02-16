@@ -1,4 +1,4 @@
-### Prazer, me chamo Diógenes Costa e sou desenvolvedor front end 🌐
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FB0494&height=150&section=header&text=Prazer%2C%20me%20chamo%20Diógenes%20Costa&fontSize=30&animation=fadeIn&fontColor=EEE&fontAlignY=30" />
 
 ##
 <div>
@@ -13,9 +13,9 @@ Comecei a estudar programação por ter a oportunidade de fazer um técnico inte
 
 
 <div align="center">
- <img widht="40%" height="165em" src="https://github-readme-stats.vercel.app/api?username=DiogenesHSCosta&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&title_color=DA69AC&text_bold=true&border_radius=5"/>
+ <img widht="40%" height="165em" src="https://github-readme-stats.vercel.app/api?username=DiogenesHSCosta&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&title_color=FB0494&text_bold=true&border_radius=5"/>
   
-  <img widht="40%" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogeneshscosta&layout=compact&&theme=highcontrast&title_color=DA69AC&text_bold=true&border_radius=5&card_width=40%" />
+  <img widht="40%" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogeneshscosta&layout=compact&&theme=highcontrast&title_color=FB0494&text_bold=true&border_radius=5&card_width=40%" />
   
 </div>
 
