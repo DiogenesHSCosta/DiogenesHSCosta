@@ -37,7 +37,7 @@ Comecei a estudar programação por ter a oportunidade de fazer um técnico inte
 <br>
 <div align="center">
   <h1>entre em contato atravéz:</h1>
-  <a  href = "https://www.linkedin.com/in/diogenescosta/" target= "_blank"> 
+  <a  href = "https://www.linkedin.com/in/diogeneshscosta/" target= "_blank"> 
     <img  src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank">
   </a>
 </div>
